@@ -35,8 +35,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            My name is Raza. I am primarily a Flutter developer, but I have also
-            worked on web development and WordPress projects.
+            My name is Raza. I am Flutter developer.
           </p>
           <div>
             <Link
